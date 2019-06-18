@@ -1,0 +1,5 @@
+org/foo/app/AppComponent.class
+org/foo/app/AppCommand.class
+org/foo/app/StatsCommand.class
+org/foo/app/StatsCommand$1.class
+org/foo/app/SomeInterface.class
